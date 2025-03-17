@@ -2,7 +2,7 @@
 
 ## ファイル構成
 
-**github repository / https://github.com/sa-keisuke1230/ms21-netmedialab-footstep/**
+**github repository / https://github.com/sa-keisuke1230/ms21-networkmedialab-footstep/**
 
 | filename         | note                          |
 | ---------------- | ----------------------------- |

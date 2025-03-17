@@ -14,7 +14,7 @@
 | learn5_svm.py    | SVM 学習と評価                |
 | requirements.txt | Python モジュール用(不足あり) |
 
-**google drive/\* https://drive.google.com/drive/folders/1EZxyNw3Td9dzeVV_Ha0pDHmXdWloTCxk?usp=drive_link/drive_data.zip**
+**google drive/\***
 
 | filename              | note                                    |
 | --------------------- | --------------------------------------- |
@@ -25,8 +25,7 @@
 | model_liner_7         | 木材,砂利,フロアパネル CNN 学習済モデル |
 | model_cnn_corrider    | 廊下 CNN 学習済モデル                   |
 
-**google drive/data/\* https://drive.google.com/drive/folders/1EZxyNw3Td9dzeVV_Ha0pDHmXdWloTCxk?usp=drive_link/drive_data.zip**
-
+**google drive/data/\***
 <p>歩行音の音声データをまとめたディレクトリ<br>
 lab/footstep_lab_k/ : 床材: フロアパネル 履物: 革靴またはヒールの歩行音<br>
 lab/footstep_lab_k/(name)_k : nameの革靴の歩行音<br>
@@ -40,7 +39,7 @@ lab/footstep_lab_s/(name)_s : nameのスニーカーの歩行音<br></p>
 | wood             | 木材                                     |
 | インターホン.mp3 | インターホンを通して歩行音を録音したもの |
 
-**google drive/result/\* https://drive.google.com/drive/folders/1EZxyNw3Td9dzeVV_Ha0pDHmXdWloTCxk?usp=drive_link/drive_data.zip**
+**google drive/result/\***
 
 | filename            | note                                  |
 | ------------------- | ------------------------------------- |
